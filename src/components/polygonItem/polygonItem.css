@@ -1,0 +1,15 @@
+.polygons-row {
+  padding: 23px 0;
+  &:last-of-type {
+    padding-bottom: 10px;
+  }
+
+  .polygons-index {
+    padding-right: 40px;
+  }
+
+  .polygons-icon {
+    column-gap: 4%;
+    row-gap: 15px;
+  }
+}

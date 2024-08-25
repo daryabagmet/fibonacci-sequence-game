@@ -1,0 +1,15 @@
+.header {
+  background-color: var(--main-color);
+  padding: 19px 24px;
+  box-sizing: border-box;
+
+  .logo {
+    margin-right: 9px;
+  }
+
+  .title {
+    color: var(--white);
+    margin: 0;
+    padding: 0;
+  }
+}
